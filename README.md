@@ -1,1 +1,3 @@
 # lemicoin
+
+Launching soon...
